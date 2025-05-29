@@ -41,4 +41,13 @@ This project is for educational and analytical purposes only. All data used is a
 Dash Board link- <a href = "https://app.powerbi.com/groups/me/reports/d2d6596f-3e4b-4788-9890-aaf568620322/6b5fa0b8d3cf5026b243?experience=power-bi"> View Dashboard </a>
 
 ![Screenshot (131)](https://github.com/user-attachments/assets/9b3d5ad9-77f3-4373-b9d5-ea4425b3d8d5)
+![Screenshot (132)](https://github.com/user-attachments/assets/64124ac6-a733-4381-8c19-278517ac47d6)
+![Screenshot (133)](https://github.com/user-attachments/assets/514d0fa5-22be-40fc-81cb-94a10cf8bfa1)
+![Screenshot (134)](https://github.com/user-attachments/assets/bc53a87e-d716-497d-9819-27d17ff90ff9)
+![Screenshot (135)](https://github.com/user-attachments/assets/69ff4e5a-57c6-45e3-9857-07dcde4970ce)
+
+
+
+
+
 
