@@ -37,3 +37,5 @@ Explore the visuals and insights interactively.
 
 📌 Note
 This project is for educational and analytical purposes only. All data used is assumed to be sample or anonymized.
+
+Dash Board link- <a href = "https://app.powerbi.com/groups/me/reports/d2d6596f-3e4b-4788-9890-aaf568620322/6b5fa0b8d3cf5026b243?experience=power-bi"> View Dashboard </a>
