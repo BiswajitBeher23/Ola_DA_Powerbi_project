@@ -26,7 +26,7 @@ Power Query – for data transformation and loading
  File Included
 ola project.pbix – Power BI dashboard file (open in Power BI Desktop)
 
-🔧 How to Use
+ How to Use
 Clone the repository or download the .pbix file.
 
 Open the file using Power BI Desktop.
